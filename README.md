@@ -3,7 +3,7 @@
 * Python 3
 * Numpy
 * Pandas
-* matplotlib
+* matplotlib.
 
 # 2. Project Motivation
 
