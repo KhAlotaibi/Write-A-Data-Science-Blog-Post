@@ -15,4 +15,4 @@ As a lover of sports, on of my favorite moments in my life is watching the olymp
 
 # 4. Resultes
 I wrote a blog discussed the resultes of the analysis here is the link
-https://medium.com/@khaleddev222/2016-olympics-in-rio-de-janeiro-data-analysis-1b5ad847b4e8
+https://medium.com/@khaleddevv/2016-olympics-in-rio-de-janeiro-data-analysis-1b5ad847b4e8
